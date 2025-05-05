@@ -17,3 +17,4 @@ class Solution(object):
                         max_length=len(substring)
                         result=substring           # Update result with the new longest palindrome
         return result
+    
